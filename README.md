@@ -108,6 +108,14 @@ Le projet a été construit étape par étape, chaque partie correspondant à un
 
 ---
 
+## 📎 Livrable complet
+
+Le document de présentation détaillé du projet, avec les captures d'écran de chaque partie, est disponible ici :
+
+📄 [datasetManager_livrable.pdf](./datasetManager_livrable.pdf)
+
+---
+
 ## 📄 Licence
 
 Projet académique — libre d'utilisation à des fins pédagogiques.
