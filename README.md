@@ -41,6 +41,7 @@ Le projet a été développé de façon progressive, en partant des bases du lan
 - ✅ Validation du domaine saisi par rapport à une liste de domaines autorisés (Santé, Finance, Agriculture, Transport, Éducation)
 - 🛡️ Gestion des erreurs (saisie invalide, fichier introuvable, dataset introuvable) pour que l'application ne plante jamais
 
+
 ---
 
 ## 🗂️ Structure du projet
